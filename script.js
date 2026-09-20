@@ -1,7 +1,7 @@
 const team = [
   {
     nom: "Benoit ",
-    photo: "benoit.jpg",
+    photo: "Benoit.jpg",
     description: "Benoit,le futur magistrat de la dream team.1 de bodycount avec Anna mais je vais bientot faire croquer.Je pense j'ai plus de chance dans le rap mais sa faut pas l'dire.  "
   },
   {
@@ -26,8 +26,8 @@ const team = [
   },
   {
     nom: "Clément",
-    photo: "Clément.jpg",
-    description: "Clément,le futur ingé cyber qui protègera la dream team sur internet tkt.0 de bodycount mais toujours prèt à faire bordel"
+    photo: "Clem.jpg",
+    description: "Clement,le futur ingé cyber qui protègera la dream team sur internet tkt.0 de bodycount mais toujours prèt à faire bordel"
   }
 ];
 
