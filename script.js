@@ -12,7 +12,7 @@ const team = [
   {
     nom: "Thomas",
     photo: "Thomas.jpg",
-    description: "Thomas,le futur ingé financier aka l'intello de la team qui peut se transformer en Diego sous alcool intense.1 de bodycount mais ça va péter sur Paris sous peu"
+    description: "Thomas,le futur ingé financier aka l'intello de la team qui peut se transformer en Diego sous alcool intense.3 de bodycount mais ça va péter sur Paris sous peu"
   },
   {
     nom: "Paulo",
