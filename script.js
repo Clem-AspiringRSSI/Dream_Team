@@ -7,9 +7,9 @@ const team = [
   {
     nom: "Luc",
     photo: "Luc.jpg",
-    description: "Luc,futur kiné aka le plus gros 
+    description: "Luc,futur kiné aka le plus gros baizeur de la dream team à l'heure actuelle.2 de bodycount et blindé aux as que demandez de mieux" 
   },
-  {baizeur de la dream team à l'heure actuelle.2 de bodycount et blindé aux as que demandez de mieux"
+  {
     nom: "Thomas",
     photo: "Thomas.jpg",
     description: "Thomas,le futur ingé financier aka l'intello de la team qui peut se transformer en Diego sous alcool intense.1 de bodycount mais ça va péter sur Paris sous peu"
